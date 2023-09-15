@@ -1,11 +1,10 @@
-CRLF
+## CRLF
 
-In a CRLF injection attack, the attacker injects malicious code into a web application's input field, along with the CR and LF characters. 
-When the input is processed by the application, the CR and LF  characters are consider as a newline character, 
-which causes the application to insert a new line into the output.
+#### In a CRLF injection attack, the attacker injects malicious code into a web application's input field, along with the CR and LF characters. When the input is processed by the application, the CR and LF  characters are consider as a newline character, which causes the application to insert a new line into the output. 
 
-Senario
+`Senario`
 
+```
 Imagine a web application that allows e to leave comments. 
 These comments are later displayed on a webpage without proper validation or encoding.
 
@@ -14,9 +13,9 @@ They aim to manipulate how the application generates its HTTP responses.
 
 Hello%0D%0AInjected-Header: Malicious-Content%0D%0A%0D%0AAttack-Payload
 
+```
 
-
-Here are a few common scenarios where CRLF injection can occur:
+#### Here are a few common scenarios where CRLF injection can occur:
 
 HTTP Response Splitting: Attackers can inject CRLF characters in user-provided input, 
 like URL parameters or form fields, to manipulate the HTTP response sent by the server. 
@@ -27,7 +26,8 @@ potentially leading to phishing attacks or unauthorized email actions.
 
 HTTP Header Injection: CRLF injection in HTTP headers can allow attackers to create malicious responses or conduct attacks like HTTP response splitting.
 
-Impact:
+`Impact:`
+
 Depending on the application's behavior and the attacker's intentions, this attack can lead to various outcomes:
 
 If the web server doesn't correctly handle the injected header, it might treat it as a new header, 
