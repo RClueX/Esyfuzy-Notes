@@ -1,0 +1,26 @@
+OAuth?
+ 
+OAuth 2.0 is an authorization framework for Web Application. 
+It validates the identity of a user to the website which requested it without disclosing passwords to the website.
+
+Oauth is an open standard for authorization Enables user grant third party application
+Access thier resource without sharing a password.
+
+
+
+
+Implicit grant type
+Authorozation Code Grant type
+
+What is OAuth Misconfiguration?
+
+The most in famous OAuth-based vulnerability is when the configuration of the OAuth service 
+itself enables attackers to steal authorization codes or access tokens associated 
+with other users’ accounts. 
+By stealing a valid code or token, the attacker may be able to access the victim’s account.
+
+
+rosource owner 
+client app
+resource server
+authorization server

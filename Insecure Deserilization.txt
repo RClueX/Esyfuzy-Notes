@@ -1,0 +1,23 @@
+Insecure Deserilization 
+
+Serilization is when data structure or object states are translated into a format that can be stord 
+Deserilization is the opposite process it involves extracting a data structure from a series of bytes 
+ 
+This vulnerability potentially enables an attacker to manipulate serilized object in order to pass harmful data into the application 
+
+
+
+mitigation : 
+
+Execute strict constraints for the deserialization processes before object creation
+
+safe desirilization lib 
+
+input validation
+
+input sanitization
+
+check for modifications in serialized data
+
+
+

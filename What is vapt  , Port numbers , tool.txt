@@ -1,0 +1,32 @@
+What is vapt ? , Port numbers , tools , Linux version, commands etc,
+
+VAPT stands for Vulnerability Assessment and Penetration Testing. It involves identifying vulnerabilities in a system and testing them.
+
+    Vulnerability Assessment involves identifying vulnerabilities in a system through various tools and techniques.
+
+    Penetration Testing involves simulating an attack on the system to identify vulnerabilities and test the security measures in place.
+
+    Some common tools used for VAPT include Nmap, Nessus, Metasploit, and Wireshark.
+
+    Port numbers are used to identify specific services running on a system. Some common port numbers include 80 for HTTP, 443 for HTTPS, and 22 for SSH.
+
+    Linux is a popular operating system used for VAPT due to its flexibility and open-source nature.
+
+    Some common Linux commands used for VAPT include nmap, netstat, and tcpdump.
+
+
+
+Types of attack, how you defend live attack
+
+
+There are various types of attacks such as phishing, malware, DDoS, etc. Defending live attacks requires a multi-layered approach.
+
+    Types of attacks include phishing, malware, DDoS, SQL injection, etc.
+
+    Defending live attacks requires a multi-layered approach including firewalls, intrusion detection/prevention systems, anti-virus software, etc.
+
+    Regularly updating software and educating employees on security best practices can also help prevent attacks.
+
+    In the event of a live attack, quick response and incident management is crucial to minimize damage and prevent further spread of the attack.
+
+    Examples of live attacks include the WannaCry ransomware attack, the Equifax data breach, and the Mirai botnet DDoS attack

@@ -1,0 +1,102 @@
+Q2. How do you test a web application? What is CSRF and SSRF? 
+
+What is LDAP injection? 
+
+How does namp work while port scanning? (Result - open/filtered/closed) 
+
+How does ssl work? 
+Suppose a proxy server(Burpsuite) is in b/w server and client so which certificate (server ssl or burpsuite ssl) client browser will validate? What is SQL injection, 
+
+How do you check it? 
+
+What is XSS and Difference between XSS and SQL Injection? 
+
+How to check open ports in linux? 
+
+DOM based XSS?? and difference between DOM based and Reflected XSS?? 
+
+Session hijacking and Session fixation? How will you predict session ID of victim? 
+
+What is HTTP method Trace? 
+
+What is Null Byte? 
+
+How will scan ports of a server if server is behind a firewall? 
+
+Common Questions: Impact and mitigation of Owasp Top 10 Vulnerabilities How will you secure login page? 
+
+Explain the PKI SSL certificates. Working of SSL in detail... 
+
+Which key does the server contains in https SSL? 
+
+Which key does the client carries? 
+
+How does the client gets the key? 
+
+Encryption algorithm selection during ssl handshake? 
+
+Half open connection & Half closed connection ?? 
+
+Mitigation of SQl and XSS What is your favourite vulnerabilities?
+
+Which tool do use for Web app testing? Metasploit - what types of payloads have u used? 
+
+Nmap - How do u scan a network? Httponly & Secure flag? 
+
+Use of Intruder in BurpSuite? 
+
+Difference between Blind SQL Injection and SQL Injection. Difference between risk, vulnerability, and threat? 
+
+Encryption Vs Hashing Vs Encoding Vs Masking Vs Tokenization What is Burpsuite? 
+
+What are the different attacks that can be performed using Burpsuite? 
+
+What are the different attacks that you have performed using Kali Linux? 
+
+IDS vs IPS vs HIPS Vs Firewall What is the role of a secure attribute in a cookie? Cookie vs Session? 
+
+How does CSRF Attack work? 
+
+Symmetric Vs Asymmetric Cryptography How can you mitigate SQL injection/ XSS/ CSRF attack? How can you prevent web server attacks? 
+
+List any 3 ways to prevent Brute Force Attacks. What is Heart Bleed Attack? What is the use of Salting in Hashing? 
+
+What are the different types of malware? 
+
+What do you understand by Auxiliary modules in Metasploit? 
+
+Blacklist Validation Vs White List Validation What is the role of Netcat in reverse shell? 
+
+How can you perform a DDOS attack? What do you understand by session hijacking? 
+
+How can it be prevented? 
+
+What is click-jacking? Explain the MITM attack. 
+
+What is the role of DMZ in network security? 
+
+What is replay attack in network security? 
+
+Elucidate the applications of Digital Signature. 
+
+What are the common misconfigurations in Linux Environment? 
+
+Different nmap scan flags and the difference in half connect & full connect scan. What is the role of Captcha in Web Application Security? 
+
+What is a Session and why do we need a Session? 
+
+How to extract data manually in sql injection vulnerability? 
+
+Difference between error based and blind based How to handle a session? 
+
+What are the ways to get session id? 
+
+How does nmap check UDP open/close port? 
+
+How will u check an ip is live or not manually? 
+
+How to check disabled accounts in Linux? 
+
+Shadow file fields? CSRF Protection SQL Injection and types and mitigation What is Rest and Soap? Blind XSS? 
+
+CVE Deatils Matrix What is Safe APIs and parametrized queries?

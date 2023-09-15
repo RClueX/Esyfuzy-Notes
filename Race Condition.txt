@@ -1,0 +1,29 @@
+Race Condition
+
+A race condition vulnerability occurs when two or   threads or processes attempt to modify shared data simultaneously, 
+leading to unexpected and potentially undesirable behavior. 
+
+Race conditions can occur when multiple requests are being processed concurrently, 
+and the order of execution or access to shared resources is not properly controlled. 
+
+
+Race conditions can result in data corruption, crashes, or security vulnerabilities
+
+
+senario 
+
+Imagine you have a web application where users can update their profile information, including their email
+The backend code is responsible for handling these updates
+
+
+Race condition can occur if two requests attempt to update the email address for the same user at the same time. 
+Here's how the race condition might play out:
+
+Thread A and Thread B both start processing requests to update the email address for the same user.
+
+Both threads fetch the current email address from the database.
+
+Thread A checks that the new email is different from the current one and proceeds to update the email in the database.
+
+Before Thread A can send the confirmation email, Thread B also performs the check and updates the email address in the database.
+Thread A finally sends the confirmation email to the email address updated by Thread B, leading to confusion or even potential security issues.

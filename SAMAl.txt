@@ -1,0 +1,15 @@
+SAMAl
+
+Security assertion markup launguage it is a xml standard for exchanging authorization and authentication between id and sp 
+
+SMAL is one technology enabling sso allowing the user to authenticate to multiple services
+
+
+when user tries to login application
+Sp generate sampl request and redirect to the id 
+ID provider authenticate user , and generate saml response send to a sp 
+sp verify the response . afetr the user successfully log into apllication
+
+
+Signature Removal 
+Signature Replacement 

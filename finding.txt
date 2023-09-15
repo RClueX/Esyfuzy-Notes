@@ -1,0 +1,5 @@
+finding
+
+In my two years of experience, 
+
+I have found significant number of critical vulnerabilities such as SQL injection, Cross-Site Scripting (XSS),SSRF,CSRF,Authentication Bypass.

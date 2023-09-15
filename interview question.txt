@@ -1,0 +1,19 @@
+what is diffrence between webserver and proxy server
+sql injection remidiation
+xss remidiation
+Database
+scema in databes
+view in database
+what type of attack in osi layer
+Mine 
+nmap vulnerability 
+what type encryption
+what diiferent type of algorythms
+mail send what type of protocol use
+vulnerability and threats diffrence 
+tcp tree way hand shake 
+in ssl what type encryption use
+Deep link
+how to inject shell into the database
+stored procesure
+buffer overflow remidation

@@ -1,0 +1,17 @@
+SSRF 
+
+Server side request forgery flaw occurs whenever a web application is fetching a remote resourse without validating the 
+user supplied URL . it allows an attacker to force the application to send a crafted request to an unexpected destination
+
+SSRF can be successful if the target application is able to read data from the url without sanitizing it 
+ 
+ 
+Basic ssrf 
+Blind ssrf
+
+Mitigation 
+1.Mitigate with firewall
+2.Whitelisting and DNS Resolution
+3.Authentication on Internal Services
+4.Response Handling
+5.Validation of user input

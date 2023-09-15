@@ -1,0 +1,7 @@
+var book = {bookName: "Book name", authorName: "Author of book"};
+
+book.__proto__.toString = ()=>{alert("polluted")}
+
+console.log(book.toString())
+
+

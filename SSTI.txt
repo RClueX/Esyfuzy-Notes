@@ -1,0 +1,29 @@
+SSTI
+
+TPL map
+
+SSTI stands for "Server-Side Template Injection.
+
+It is a critical web application vulnerability that occurs when untrusted user input is directly 
+or indirectly embedded in server-side templates without proper validation or sanitization. 
+SSTI allows attackers to execute arbitrary code on the server-side.
+
+
+Here's a simple explanation of SSTI:
+
+Imagine you're creating a letter using a template where you can fill in placeholders like Dear {{name}}, 
+and the template engine replaces {{name}} with the actual name when generating the letter. 
+Now, let's say an attacker figures out a way to inject code instead of a name.
+
+When the template engine processes the letter, it mistakenly executes the injected code. 
+This could lead to the attacker gaining access to internal server data, manipulating the template's behavior, 
+or even executing arbitrary commands on the server.
+
+SSTI is a serious security concern because it can lead to full server compromise, data leaks, 
+or the execution of harmful actions. Preventing SSTI involves properly validating and sanitizing user input, 
+using context-aware encoding, and being cautious with template engines to ensure that only int
+ended content is processed.
+
+
+Using Sandboxing
+Input Validation

@@ -1,0 +1,6 @@
+Smuggling?
+
+HTTP request smuggling is an exploitation technique in which a malicious request is inserted inside an original request, 
+which is then processed by the backend server. In this attack, the malicious request is smuggled and processed
+
+
